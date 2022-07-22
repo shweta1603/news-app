@@ -1,0 +1,26 @@
+.news-cards{
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    padding: 10px;
+    background-color: #c2cac073;
+    position: relative;
+    border: 2px solid #664d0352;
+}
+.news-cards .card-img-top{
+    max-height: 200px;
+    margin-top: 27px;
+    border: 1px solid #664d03;
+    border-radius: 23px;
+    box-shadow: 5px 5px 5px 2px #664d03;
+}
+.news-cards .card{
+    
+    width: 100%;
+    display: contents;
+}
+.news-cards .image{
+width: fit-content;
+position: absolute;
+left: -61px;
+}
